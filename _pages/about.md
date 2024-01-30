@@ -17,18 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a student in the engineering doctor program at the School of Information, Renmin University of China. My major is blockchain, with a focus on studying its application in industries such as healthcare and aged care. I now work as head of research of Aldelo L.P., responding for the operation of Aldelo Laboratory and the operation of China branch. With over 25 years of experience in software and internet development, I have held various positions including engineer, project manager, and CTO in different companies like Yonyou and GreatWall Software. This has given me deep insights into software product development, team management, sales, and marketing. Since 2014, I have been leading my team in researching and developing blockchain and artificial intelligence technologies.
-
-I am the author of two books on blockchain, namely "The Brief History of Blockchain" and "Digital Currencies: The Rise of Machine Power and the Future of Digital Order." Additionally, I have an English handbook on digital currencies currently in the publishing process with Springer Publishing House. Furthermore, I have written numerous articles that have been published in various journals, and I hold several patents in the areas of blockchain and artificial intelligence. In my spare time, I enjoy writing and spent my time in various genres such as novels, short stories, and essays.
-
-I also hold various positions within the community, including serving as technical consultant for FATF (Financial Action Task Force)，Central Bank of China, EU(Europen Union), as well as being a lecturer at the Chinese Bank Union, among others.
-
-I graduated from Science and Technology University of BeiJing in 1998.  
-
-
-My research interest includes AI application and Blockchain.
-
-The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/7bd87904807a'>My blog</a>.
+Dr. Yun Wu, with a distinguished role as Deputy Director of AML Bureau at the People's Bank of China, holds advanced degrees in law and economics. His expertise in financial regulations is reflected in his significant contributions to anti-money laundering standards, including the pioneering AML framework for e-CNY. He has co-authored several publications on financial oversight and digital currencies, marking him as a leading figure in the field.
 
 
 # 🔥 News
