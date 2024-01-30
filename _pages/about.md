@@ -66,6 +66,12 @@ Wei Zhu, Yun Wu, Bo Yang
 - *2010.09 - 2012.06*  New York University (NY), MA in Economics (2010-2012)
 - *1999.09 - 2009.06*	China University of Politics and Law (Beijing), Bachelor of Laws (1999-2003), Master of Philosophy in Laws (2003-2006) and Ph.D. in Laws (2006-2009)
 
+# 📖 Qualification
+
+- 	Chinese (Public) Attorney-at-law; New York Attorney-at-law
+-   New York Attorney-at-law
+- 	FRM (Financial Risk Manager); CFA Level III candidate
+
 
 # 💬 Talking
 
