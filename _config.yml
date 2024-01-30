@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wei Zhu"
-description              : "This is Wei Zhu's Home Page"
-repository               : "Williamm-Wei-Zhu/Williamm-Wei-Zhu.github.io"
+title                    : "Yun Wu"
+description              : "This is Yun Wu's Home Page"
+repository               : "Shaorongwu-Yun-Wu/Shaorongwu-Yun-Wu.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhu Wei"
+  name             : "Yun Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Renmin University of China"
+  bio              : "People's Bank of China"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhuwei23@ruc.edu.cn"
+  email            : "1121163309@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
