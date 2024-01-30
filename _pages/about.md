@@ -49,23 +49,22 @@ Wei Zhu, Yun Wu, Bo Yang
 </div>
 
 
-- 	Digital Currencies: The Rise of Machine Power and the Future of Digital Order, Zhejiang University Press, Nov. 2022
-- 	A Short History of Blockchain, China Financial Press, May 2020
-- 	“Money Laundering Through Virtual Currencies: Inherent Risk, Typological Analysis and Regulatory Responses”, Financial Regulatory Research 2021(10)
-- 	Digital Currencies and Virtual Currencies Subjected to Regulation: A transdisciplinary Perspective from Law, Finance and Technology, Journal of Shanghai University of Political Science and Law 2021(06) 
-- 	“Anti-money Laundering Regulation over Virtual Currencies: A Starting Point to Depart from Autonomous Order”, Law and Economy 2021(02) 
-- 	 “Virtual Currencies: A Failed Social Experiment of Private Currencies?”, Financial Regulatory Research 2020(05)
-
-- 	“The Financial Reforms on Regulatory Framework after the Crisis: from Bipartite to Tripartite Twin Peaks Regulatory Model”, Eastern China University of Politics and Law Journal 3(2016) (co-author with Tao ZHANG, the Deputy Managing Director of IMF)
-- 		 “Regulatory Isolation and Prudential Insufficiency: The Problems and Reforms of Chinese Financial Regulatory Framework”, Economic Problems 5(2016):30-35
+- Digital Currencies: The Rise of Machine Power and the Future of Digital Order, Zhejiang University Press, Nov. 2022
+- A Short History of Blockchain, China Financial Press, May 2020
+- “Money Laundering Through Virtual Currencies: Inherent Risk, Typological Analysis and Regulatory Responses”, Financial Regulatory Research 2021(10)
+- Digital Currencies and Virtual Currencies Subjected to Regulation: A transdisciplinary Perspective from Law, Finance and Technology, Journal of Shanghai University of Political Science and Law 2021(06)
+- “Anti-money Laundering Regulation over Virtual Currencies: A Starting Point to Depart from Autonomous Order”, Law and Economy 2021(02)
+- “Virtual Currencies: A Failed Social Experiment of Private Currencies?”, Financial Regulatory Research 2020(05)
+- “The Financial Reforms on Regulatory Framework after the Crisis: from Bipartite to Tripartite Twin Peaks Regulatory Model”, Eastern China University of Politics and Law Journal 3(2016) (co-author with Tao ZHANG, the Deputy Managing Director of IMF)
+- “Regulatory Isolation and Prudential Insufficiency: The Problems and Reforms of Chinese Financial Regulatory Framework”, Economic Problems 5(2016):30-35
 
 
 
 # 📖 Educations
 
-- *2011.09 - 2012.06*	University of Pennsylvania (PA), Master of Laws (2011-2012)
-- *2010.09 - 2012.06*  New York University (NY), MA in Economics (2010-2012)
-- *1999.09 - 2009.06*	China University of Politics and Law (Beijing), Bachelor of Laws (1999-2003), Master of Philosophy in Laws (2003-2006) and Ph.D. in Laws (2006-2009)
+- *2011.09 - 2012.06*	University of Pennsylvania (PA), Master of Laws (2011-2012)
+- *2010.09 - 2012.06*  New York University (NY), MA in Economics (2010-2012)
+- *1999.09 - 2009.06*	China University of Politics and Law (Beijing), Bachelor of Laws (1999-2003), Master of Philosophy in Laws (2003-2006) and Ph.D. in Laws (2006-2009)
 
 
 # 💬 Talking
@@ -79,5 +78,3 @@ Wei Zhu, Yun Wu, Bo Yang
   Investment Banking Department
 - CITIC Securities Company, Beijing July 2012-May 2013
   Compliance Department
-
-
