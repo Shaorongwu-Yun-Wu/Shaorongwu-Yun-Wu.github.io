@@ -68,9 +68,9 @@ Wei Zhu, Yun Wu, Bo Yang
 
 # 📖 Qualification
 
-- 	Chinese (Public) Attorney-at-law; New York Attorney-at-law
--   New York Attorney-at-law
-- 	FRM (Financial Risk Manager); CFA Level III candidate
+- Chinese (Public) Attorney-at-law
+- New York Attorney-at-law
+- FRM (Financial Risk Manager); CFA Level III candidate
 
 
 # 💬 Talking
