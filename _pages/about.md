@@ -48,57 +48,36 @@ Wei Zhu, Yun Wu, Bo Yang
 </div>
 </div>
 
-- “Leveraging Blockchain Technology for Trusted Steel Supply Chain Management”，**Zhu Wei**, Xuan Wang, Bo Yang, Yue Hu, Hsu, Li(Under Review)
 
-- "How Can Digital RMB Break the Isolation of Anti-Money Laundering Monitoring and Analysis? - Joint Risk Control based on Privacy Computing", **Zhu Wei**, Credit Investigation, 2022-03.
+- 	Digital Currencies: The Rise of Machine Power and the Future of Digital Order, Zhejiang University Press, Nov. 2022
+- 	A Short History of Blockchain, China Financial Press, May 2020
+- 	“Money Laundering Through Virtual Currencies: Inherent Risk, Typological Analysis and Regulatory Responses”, Financial Regulatory Research 2021(10)
+- 	Digital Currencies and Virtual Currencies Subjected to Regulation: A transdisciplinary Perspective from Law, Finance and Technology, Journal of Shanghai University of Political Science and Law 2021(06) 
+- 	“Anti-money Laundering Regulation over Virtual Currencies: A Starting Point to Depart from Autonomous Order”, Law and Economy 2021(02) 
+- 	 “Virtual Currencies: A Failed Social Experiment of Private Currencies?”, Financial Regulatory Research 2020(05)
 
-- "Virtual Currency as a Virtual Currency in Financial Regulation: An Interdisciplinary Study of Law, Finance, and Technology", Wu Yun, **Zhu Wei**,Journal of Shanghai University of Political Science and Law, 2021-07.
-
-- "Leveraging Artificial Intelligence in Medicine Compliance Check", Zhang Wenping, **Zhu Wei**, HCII2021.
-
-
-- "International Regulation of Virtual Currencies: Starting from Anti-Money Laundering and Moving Towards Emergent Order", Wu Yun, **Zhu Wei**, Financial and Economic Law Journal, 2021, Issue 2.
-
-- "Virtual Currency: A Failed Private Currency and Social Experiment", Wu Yun, **Zhu Wei**,  Financial Regulation Research, 2020, Issue 6.
-
-- "Research Report on the Current Situation and Trends of Distributed Trustworthy Internet in Beijing", **Zhu Wei** 2020.
-
-- "Fintech in China Report", **Zhu Wei**, EU Project, 2024.
-
-
- **Patent**
-# 🎖 US Invention Patent
-- Harry Tu, *Zhu Wei*, SYSTEMS AND METHODS FOR HANDWRITING RECOGNITION USING OPTICAL CHARACTER RECOGNITION (18/243,512) (patent pending)
-
-- Harry Tu, *Zhu Wei*, SYSTEM AND METHODS FOR MENU CONTENT RECOGNITION USING AI TECHNOLOGIES (18/397,841)(patent pending)
-
-- Harry Tu, *Zhu Wei*, SYSTEMS AND METHODS FOR AUTONOMOUS CONVERSATIONAL ORDERING AND BOOKING USING AI TECHNOLOGIES（18/400,619）(patent pending)
-
-# 🎖 China Invention Patent
-- *Zhu Wei* Trusted Application Network Data Tracing and Audit Method for Complex Software Networks.(ZL 2020 1 0113192.2)
-- *Zhu Wei* A method and system for disease standardization mapping classification using Bert.(202010627402.X) (Pending)
-- *Zhu Wei* A blockchain-based anti-counterfeiting and traceability system and method for steel.(202110523809.2)(Pending)
-- *Zhu Wei* An intelligent information system and construction method based on large language models.(202311023967.7)(Pending)
-- *Zhu Wei* A content distribution and interaction method and system based on multimodal large language models.(202310961722.2)(Pending)
-- *Zhu Wei* A method and system for blacklist cross-verification and sharing among multiple parties.(202010737235.4)(Pending)
-- *Zhu Wei* A method and system for standardized mapping of drug names.(202011050937.1)(Pending)
-
-
+- 	“The Financial Reforms on Regulatory Framework after the Crisis: from Bipartite to Tripartite Twin Peaks Regulatory Model”, Eastern China University of Politics and Law Journal 3(2016) (co-author with Tao ZHANG, the Deputy Managing Director of IMF)
+- 		 “Regulatory Isolation and Prudential Insufficiency: The Problems and Reforms of Chinese Financial Regulatory Framework”, Economic Problems 5(2016):30-35
 
 
 
 # 📖 Educations
-- *2023.09 -  (now)*, Engineering Doctor, Digital Information, School of Information, Renmin University.
-- *1994.09 - 1998.06*, Hydraulic, School of mechanics， Science and Technology University of BeiJing
 
-# 💬 Teaching
-- The development history and principles of blockchain
-- Exploration of practical applications of blockchain
-- The history and principles of digital currency
-- The development history and technical architecture of central bank digital currency
-- The basic principles of AI
+- *2011.09 - 2012.06*	University of Pennsylvania (PA), Master of Laws (2011-2012)
+- *2010.09 - 2012.06*  New York University (NY), MA in Economics (2010-2012)
+- *1999.09 - 2009.06*	China University of Politics and Law (Beijing), Bachelor of Laws (1999-2003), Master of Philosophy in Laws (2003-2006) and Ph.D. in Laws (2006-2009)
 
-# 💻 Work experience
-- *2023.07 - Now*, VP of Research, Aldelo LP(aldelo.com).
-- *2003.07 - 2023.07*, Head of Research, Rayootech(rayootech.com).
-- *1998.09 - 2003.07*, Engineer/PM, Greatwall Software China 
+
+# 💬 Talking
+
+
+# 💻 Experience
+- People’s Bank of China, Beijing May 2015 - Now
+  AML Bureau, May 2017- Now; Legal Affairs Department, May 2015-May 2017
+  From 2020, playing a pivotal role in drafting the pioneering regulation, “The Anti-Money Laundering Guidance of e-CNY” (Sep.    2023), the first regulatory framework for central bank digital currencies.
+- PingAn Bank, Beijing & Shenzhen     May 2013-May 2015
+  Investment Banking Department
+- CITIC Securities Company, Beijing July 2012-May 2013
+  Compliance Department
+
+
