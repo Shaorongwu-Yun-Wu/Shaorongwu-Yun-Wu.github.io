@@ -81,6 +81,6 @@ Wei Zhu, Yun Wu, Bo Yang
   AML Bureau, May 2017- Now; Legal Affairs Department, May 2015-May 2017
   From 2020, playing a pivotal role in drafting the pioneering regulation, “The Anti-Money Laundering Guidance of e-CNY” (Sep.    2023), the first regulatory framework for central bank digital currencies.
 - PingAn Bank, Beijing & Shenzhen     May 2013-May 2015
-  Investment Banking Department
+  Investment Banking Department of Real Estates
 - CITIC Securities Company, Beijing July 2012-May 2013
   Compliance Department
